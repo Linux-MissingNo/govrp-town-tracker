@@ -1,0 +1,11 @@
+{
+    "name": "js-town-trackers",
+    "version": "0.0.0",
+    "description": "JS Town Trackers",
+    "main": "app.js",
+    "author": {
+      "name": "Linux_MissingNo"
+    },
+    "type": "module"
+  }
+  
